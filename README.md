@@ -1,4 +1,4 @@
-Full Stack Developer with 4 years of experience in web development. JavaScript, Node.js, Vue.js, SQL, NoSQL, Java.
+Full Stack Developer with 4 years of experience in web development. JavaScript, Node.js, Vue.js, SQL, NoSQL, Python, Java.
 
 Check out my current project: https://quinnlas.github.io/city-learner/
 
